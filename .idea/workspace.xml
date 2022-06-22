@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dce5191e-214b-4e33-a7af-09b5a602d930" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/design-ashley-denzel.html" beforeDir="false" afterPath="$PROJECT_DIR$/design-ashley-denzel.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/design-ashley-denzel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/design-ashley-denzel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-ashley-denzel.html" beforeDir="false" afterPath="$PROJECT_DIR$/design-ashley-denzel.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AwpqjPOtNWNnI5lRtYu2CvD6JJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
