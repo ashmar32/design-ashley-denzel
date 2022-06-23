@@ -1,19 +1,20 @@
-body {
-background-color: lightgray;
-
-height: 100vh;
-}
+/*height: 100vh;*/
+/*}*/
 /* row color training wheels  */
 /*div.row {*/
 /*    border: 1px dashed blue;*/
-}
+/*}*/
 /* cell color training wheels */
 /*div.row > div {*/
 /*    border: 1px solid red;*/
+/*}*/
+/*div.tall-row {*/
+/*    height: 300px;*/
+/*}*/
+body {
+    background-color: lightgray;
 }
-div.tall-row {
-    height: 300px;
-}
+
 h1,h2{
     font-weight: bolder;
     font-family: Copperplate;
