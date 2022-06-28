@@ -373,3 +373,191 @@ div.tall-row {
     }
 
 }
+@media only screen and (min-width:992px){
+    body {
+        background-color: lightgray;
+    }
+
+    h1, h2 {
+        font-weight: bolder;
+        font-family: Copperplate;
+    }
+
+
+    .circle1 {
+        background: #e6563b;
+        width: 123px;
+        height: 131px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 10px solid white;
+
+
+    }
+
+    .circle2 {
+        background: #eb9d38;
+        width: 123px;
+        height: 131px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        border: 10px solid white;
+        justify-content: center;
+    }
+
+    .circle3 {
+        background: #7cb06c;
+        width: 123px;
+        height: 131px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        border: 10px solid white;
+        justify-content: center;
+    }
+
+    .circle4 {
+        background: #00aba9;
+        width: 123px;
+        height: 131px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        border: 10px solid white;
+        justify-content: center;
+    }
+
+    .col-6 {
+        padding-left: 33px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        margin-right: -106px
+
+    }
+
+    .span1 { /*Selected Work*/
+        display: flex;
+        justify-content: center;
+        margin-bottom: 45px;
+        /*add  font style*/
+    }
+
+    .appleIpad {
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+    .appleIpadPic {
+        border: 7px solid grey;
+
+    }
+
+    .Not {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .clone {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+    }
+
+    /*small circle*/
+    .smallcircle1 {
+        background: #e6563b;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        /*display: flex;*/
+        flex-direction: row;
+        justify-content: right;
+        margin-left: 261px;
+        margin-right: 10px;
+
+    }
+
+    .smallcircle2 {
+        background: #eb9d38;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        /*display: flex;*/
+        flex-direction: row;
+        justify-content: right;
+        margin-right: 10px;
+    }
+
+    .smallcircle3 {
+        background: #7cb06c;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        /*display: flex;*/
+        flex-direction: row;
+        justify-content: right;
+        margin-right: 10px;
+    }
+
+    .smallcircle4 {
+        background: #00aba9;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        /*display: flex;*/
+        flex-direction: row;
+        justify-content: right;
+        margin-right: 10px;
+    }
+
+    .smc1 {
+        padding-right: 9px;
+        padding-top: 2px;
+        padding-left: 9px;
+
+
+    }
+
+    .Mac {
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .MacPic {
+        border: 7px solid grey;
+    }
+
+    .PfortheSmallCircle {
+        margin-top: 0;
+        margin-right: -131px;
+        margin-bottom: 1rem;
+        margin-left: 8px;
+    }
+
+    .row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+
+    }
+    .container2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .md-col-6{
+        width: 25%;
+
+    }
+
+}
