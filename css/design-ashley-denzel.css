@@ -583,4 +583,8 @@ div.tall-row {
 
         width: 250px;
     }
+    .theLaststuff {
+        text-wrap: ;
+        font-size: 1em;
+    }
 }
